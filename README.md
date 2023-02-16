@@ -6,5 +6,9 @@ OpenWeatherMap - to get weather
 How it looks?
 ![obraz](https://user-images.githubusercontent.com/102172769/219513501-03f4325e-e9c9-4637-9af5-7d0d737c38f9.png)
 
+User can check more informations!
+![obraz](https://user-images.githubusercontent.com/102172769/219514002-a358ff15-4eee-4ee2-8392-f6309b97f45f.png)
+
+
 
 
